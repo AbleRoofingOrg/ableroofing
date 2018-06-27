@@ -842,15 +842,15 @@ div[data-overlay] ul {
   padding-bottom: 0.46428571em;
   padding-right: 2.78571429em;
   padding-left: 2.78571429em;
-  border: 1px solid #252525;
+  border: 1px solid #e99c01;
   border-width: 1px;
   font-size: inherit;
   line-height: 1.85714286em;
 }
 .btn .btn__text,
 .btn i {
-  color: #252525;
-  border-color: #252525;
+  color: #e99c01;
+  border-color: #e99c01;
   font-weight: 700;
   font-size: 0.85714286em;
 }
@@ -951,8 +951,8 @@ div[data-overlay] ul {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: #2374ab;
-  border-color: #2374ab;
+  background: #e99c01;
+  border-color: #e99c01;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
