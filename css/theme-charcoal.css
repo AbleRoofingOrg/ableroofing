@@ -2728,7 +2728,7 @@ body {
   background: #ffffff;
 }
 .color--primary {
-  color: #2374ab !important;
+  color: #FDB300 !important;
 }
 a {
   color: #2374ab;
@@ -4203,7 +4203,7 @@ pre {
 }
 /*! -- Stack Links -- */
 a {
-  color: #2374ab;
+  color: #FDB300;
   font-weight: 700;
 }
 a:hover {
