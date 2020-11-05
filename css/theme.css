@@ -842,15 +842,15 @@ div[data-overlay] ul {
   padding-bottom: 0.46428571em;
   padding-right: 2.78571429em;
   padding-left: 2.78571429em;
-  border: 1px solid #e99c01;
+  border: 1px solid #EB1D25
   border-width: 1px;
   font-size: inherit;
   line-height: 1.85714286em;
 }
 .btn .btn__text,
 .btn i {
-  color: #e99c01;
-  border-color: #e99c01;
+  color: #EB1D25
+  border-color: #EB1D25
   font-weight: 700;
   font-size: 0.85714286em;
 }

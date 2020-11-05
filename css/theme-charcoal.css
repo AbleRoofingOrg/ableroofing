@@ -951,8 +951,8 @@ div[data-overlay] ul {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: #e99c01;
-  border-color: #e99c01;
+  background: #EB1D25;
+  border-color: #EB1D25;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
@@ -963,7 +963,7 @@ div[data-overlay] ul {
   color: #fff;
 }
 .btn--primary:hover {
-  background: #2782c0;
+  background: hover;
 }
 .btn--primary:active {
   background: #1f6696;
@@ -2728,10 +2728,10 @@ body {
   background: #ffffff;
 }
 .color--primary {
-  color: #FDB300 !important;
+  color: #EB1D25 !important;
 }
 a {
-  color: #2374ab;
+  color: ;
 }
 .color--primary-1 {
   color: #2c3d55 !important;
@@ -4203,11 +4203,11 @@ pre {
 }
 /*! -- Stack Links -- */
 a {
-  color: #FDB300;
+  color: #EB1D25;
   font-weight: 700;
 }
 a:hover {
-  color: #1a5781;
+  color: #EB1D25;
   text-decoration: underline;
 }
 a.block {
