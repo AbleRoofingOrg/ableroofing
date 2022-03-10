@@ -192,19 +192,33 @@ a:active {
   outline: none;
 }
 
-.space--xs1{padding:0 0 40px 0;}
-.sive{background: #EB1D25;
-    padding: 10px;
-    color: #fff;
-    font-size: 17px;
-    text-transform: uppercase;
-    }
-.Kamloops-hed{font-size:22px;}	
-.wonders4{margin-bottom:50px;}	
-.wonders4 p{font-size:16px;line-height:25px;}
-.innero{height: 100%;margin-top: 40px;
-    background: #f7f7f7;
-    padding: 40px 20px 0;}	
+.space--xs1 {
+  padding: 0 0 40px 0;
+}
+
+.sive {
+  background: #EB1D25;
+  padding: 10px;
+  color: #fff;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+
+.Kamloops-hed {
+  font-size: 22px;
+}	
+.wonders4 {
+  margin-bottom: 50px;
+}	
+.wonders4 p {
+  font-size: 16px;
+  line-height: 25px;
+}
+.innero {
+  height: 100%;
+  margin-top: 40px;
+  background: #f7f7f7;
+  padding: 40px 20px 0;}	
 /*! Typography -- Helpers */
 .type--fade {
   opacity: .5;
