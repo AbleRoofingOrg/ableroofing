@@ -9370,3 +9370,9 @@ footer.footer-7 {
     margin-right: auto;
   }
 }
+@media (max-width: 1025px) {
+ .pair{
+   margin-bottom:30px;
+ } 
+}
+
